@@ -1,22 +1,9 @@
-- 👋 Hi, I’m @AlisaKapitanova
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-### Hi 👋, I'm Alisa
 
-
-detail - oriented Software QA Engineer with 4+ years experience  
-
+### Hi 👋, I'm Alisa QA Engineer from Prague
 
 - ❤️ I'm a passionate about testing, automating, solve testing problems in real world and designing test frameworks
-  
-- Contribute to all aspects of the testing process: planning, creating test documentation, and performing testing.
-  
-- Take ownership and deliver results for assigned tasks.Built trusted relationships with the Scrum team by catching issues at the early stage
-  
-- 🌱 I’m currently learning Swift, XCTest, Appium
-
+- 🌱 I’m currently learning Cypress, Playwright, JS
+- 👀 Contribute to all aspects of the testing process: planning, creating test documentation, and performing testing.
 
 
 ## My Skill Set  
