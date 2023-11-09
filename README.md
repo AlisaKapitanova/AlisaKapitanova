@@ -3,6 +3,7 @@
 
 - ❤️ I'm a passionate about testing, automating, solve testing problems in real world and designing test frameworks
 - 🌱 I’m currently learning Cypress, Playwright, JS
+- 💫 I won a grant to study and I am happy to improve my knowledge at the IT academy Czechitas in the Prage 
 - 👀 Contribute to all aspects of the testing process: planning, creating test documentation, and performing testing.
 
 
