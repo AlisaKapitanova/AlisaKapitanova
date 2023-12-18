@@ -22,3 +22,13 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=AlisaKapitanova&theme=react-dark&hide_border=true&area=true)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisakapitanova&show_icons=true&locale=en&layout=compact" alt="alisakapitanova" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisakapitanova&show_icons=true&locale=en" alt="alisakapitanova" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisakapitanova&" alt="alisakapitanova" /></p>
+
+
