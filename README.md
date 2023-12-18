@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisa Kapitanova</h1>
-<h3 align="center">QA Engineer from Prague </h3>
+<h2 align="center">QA Engineer from Prague </h2>
 
 - ❤️ I'm a passionate about testing, automating, solve testing problems in real world and designing test frameworks
 - 🌱 I’m currently learning Cypress, Playwright, JS
